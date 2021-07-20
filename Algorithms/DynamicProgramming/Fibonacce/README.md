@@ -1,14 +1,17 @@
-Fibonacci numbers
+# Fibonacci numbers
 The Fibonacci numbers are the numbers in the following integer sequence.
-0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ……..
+> 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ……..
 
 In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the recurrence relation 
-
-Fn = Fn-1 + Fn-2
+```sh
+Fn = Fn-1 + Fn-2 
+```
 with seed values 
-
+```sh
 F0 = 0 and F1 = 1.
-
+```
+### Using Dynamic Programming
+```sh
 int fib(int n)
 {
     int f[n + 2];
@@ -22,4 +25,5 @@ int fib(int n)
        f[i] = f[i - 1] + f[i - 2];
     }
     return f[n];
- }
+}
+```
