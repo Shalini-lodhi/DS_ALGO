@@ -27,3 +27,8 @@ int fib(int n)
     return f[n];
 }
 ```
+
+### Related Questions:
+- Fibonacci Number [LeetCode](https://leetcode.com/problems/fibonacci-number/)
+- Climbing Stairs [LeetCode](https://leetcode.com/problems/climbing-stairs/)
+- N-th Tribonacci Number [LeetCode](https://leetcode.com/problems/n-th-tribonacci-number/)
