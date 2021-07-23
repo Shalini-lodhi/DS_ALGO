@@ -38,5 +38,5 @@ Subset = 2^n
 - Longest Palindromic Subsequence [Leetcode](https://leetcode.com/problems/longest-palindromic-subsequence/)
 - Longest Palindromic Substring [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/)
 - Palindromic Substrings [LeetCode](https://leetcode.com/problems/palindromic-substrings/)
-- Minimum deletion in a string to make it as Palindrome
-- Minimum insertion in a string to make it as Palindrome
+- Minimum deletion in a string to make it as Palindrome [GFG](https://www.geeksforgeeks.org/minimum-number-deletions-make-string-palindrome/)
+- Minimum insertion in a string to make it as Palindrome [GFG](https://www.geeksforgeeks.org/minimum-insertions-to-form-a-palindrome-dp-28/) | [LeetCode](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
