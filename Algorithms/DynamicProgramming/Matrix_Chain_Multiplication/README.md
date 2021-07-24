@@ -1,25 +1,4 @@
-Fibonacci numbers
-The Fibonacci numbers are the numbers in the following integer sequence.
-0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ……..
-
-In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the recurrence relation 
-
-Fn = Fn-1 + Fn-2
-with seed values 
-
-F0 = 0 and F1 = 1.
-
-int fib(int n)
-{
-    int f[n + 2];
-    int i;
- 
-    f[0] = 0;
-    f[1] = 1;
- 
-    for(i = 2; i <= n; i++)
-    {
-       f[i] = f[i - 1] + f[i - 2];
-    }
-    return f[n];
- }
+# Matrix chain multiplication
+Matrix chain multiplication (also known as the matrix chain ordering problem) is an optimization problem that involves determining the most efficient way to multiply a given sequence of matrices. The difficulty is not to do the multiplications themselves, but rather to determine the order of the matrix multiplications involved. Dynamic programming might be used to overcome the problem.
+#### Generalizations
+Given a linear sequence of objects, an associative binary operation on those items, and a mechanism to compute the cost of executing that operation on any two given objects (as well as all partial outcomes), compute the lowest cost way to group the objects to apply the operation over the sequence.
