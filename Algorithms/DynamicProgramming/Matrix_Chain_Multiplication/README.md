@@ -14,4 +14,4 @@ dp[i][j]=dp[i][k]+dp[k+1][j]+(a[i-1]*a[j]*a[k});
 - palindromic-patitioning [GFG](https://www.geeksforgeeks.org/palindrome-partitioning-dp-17/)
 - boolean-parenthesization [GFG](https://www.geeksforgeeks.org/boolean-parenthesization-problem-dp-37/)
 - check-if-a-string-is-a-scrambled-form-of-another-string [GFG](https://www.geeksforgeeks.org/check-if-a-string-is-a-scrambled-form-of-another-string/)
-- egg-dropping-puzzle [GFG](https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/)
+- egg-dropping-puzzle [GFG](https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/) | [LeetCode](https://leetcode.com/problems/super-egg-drop/)
