@@ -35,3 +35,5 @@ int fib(int n)
 - Binomial Coefficient [GFG](https://www.geeksforgeeks.org/binomial-coefficient-dp-9/)
 - permutation-coefficient [GFG](https://www.geeksforgeeks.org/permutation-coefficient/)
 - program-nth-catalan-number [GFG](https://www.geeksforgeeks.org/program-nth-catalan-number/)
+- friends-pairing-problem [GFG](https://www.geeksforgeeks.org/friends-pairing-problem/)
+- 
