@@ -21,11 +21,11 @@ Binary search trees are a basic data structure that is used to build more abstra
 - Find Kth largest element in a BST
 - Find Kth smallest element in a BST
 - Count pairs from 2 BST whose sum is equal to given value "X"
-- Find the median of BST in O(n) time and O(1) space
-- Count BST ndoes that lie in a given range
+- Find the median of BST in O(n) time and O(1) space [GFG](https://www.geeksforgeeks.org/find-median-bst-time-o1-space/)
+- Count BST ndoes that lie in a given range [GFG](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1#)
 - Replace every element with the least greater element on its right
 - Given "n" appointments, find the conflicting appointments
-- Check preorder is valid or not
-- Check whether BST contains Dead end
-- Largest BST in a Binary Tree 
-- Flatten BST to sorted list
+- Check preorder is valid or not [GFG](https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1)
+- Check whether BST contains Dead end 
+- Largest BST in a Binary Tree [GFG](https://practice.geeksforgeeks.org/problems/largest-bst/1#)
+- Flatten BST to sorted list [GFG](https://practice.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list/0/?fbclid=IwAR0CbQ8IloSpaUDvtNo7mmvHN4bCoBd8XFQyA9T2eniTjWRE7g6LPp1TcMI) | [LeetCode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
